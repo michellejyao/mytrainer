@@ -20,9 +20,9 @@ The app then provides:
 Start your journey with our beautiful, modern landing page that showcases the app's features and benefits.
 
 <div align="center">
-  <img src="LandingPage.png" alt="Landing Page" width="35%" />
-  <img src="LandingPage2.png" alt="Landing Page Features" width="35%" />
-  <img src="LandingPage3.png" alt="Landing Page CTA" width="35%" />
+  <img src="LandingPage.png" alt="Landing Page" width="45%" />
+  <img src="LandingPage2.png" alt="Landing Page Features" width="45%" />
+  <img src="LandingPage3.png" alt="Landing Page CTA" width="45%" />
 </div>
 
 ### Authentication
@@ -50,7 +50,7 @@ Answer a few simple questions to help us understand your goals and preferences.
 Watch as our AI creates your personalized schedule in real-time.
 
 <div align="center">
-  <img src="Generating.png" alt="AI Generating Schedule" width="60%" />
+  <img src="Generating.png" alt="AI Generating Schedule" width="50%" />
 </div>
 
 ### Your Personalized Schedule
