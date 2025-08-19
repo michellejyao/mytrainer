@@ -14,15 +14,15 @@ The app then provides:
 - **Smart Notifications**: SMS and push notifications to keep you on track
 - **Flexible Management**: Easy schedule adjustments and regeneration options
 
-## 🖼️ App Walkthrough
+## App Walkthrough
 
 ### Landing Page
 Start your journey with our beautiful, modern landing page that showcases the app's features and benefits.
 
 <div align="center">
-  <img src="LandingPage.png" alt="Landing Page" width="30%" />
-  <img src="LandingPage2.png" alt="Landing Page Features" width="30%" />
-  <img src="LandingPage3.png" alt="Landing Page CTA" width="30%" />
+  <img src="LandingPage.png" alt="Landing Page" width="35%" />
+  <img src="LandingPage2.png" alt="Landing Page Features" width="35%" />
+  <img src="LandingPage3.png" alt="Landing Page CTA" width="35%" />
 </div>
 
 ### Authentication
@@ -37,17 +37,20 @@ Secure login with Google authentication for a seamless user experience.
 Answer a few simple questions to help us understand your goals and preferences.
 
 <div align="center">
-  <img src="Q1.png" alt="Question 1" width="22%" />
-  <img src="Q2.png" alt="Question 2" width="22%" />
-  <img src="Q3.png" alt="Question 3" width="22%" />
-  <img src="Q4.png" alt="Question 4" width="22%" />
+  <img src="Q1.png" alt="Question 1" width="45%" />
+  <img src="Q2.png" alt="Question 2" width="45%" />
+</div>
+
+<div align="center">
+  <img src="Q3.png" alt="Question 3" width="45%" />
+  <img src="Q4.png" alt="Question 4" width="45%" />
 </div>
 
 ### AI Schedule Generation
 Watch as our AI creates your personalized schedule in real-time.
 
 <div align="center">
-  <img src="Generating.png" alt="AI Generating Schedule" width="80%" />
+  <img src="Generating.png" alt="AI Generating Schedule" width="60%" />
 </div>
 
 ### Your Personalized Schedule
